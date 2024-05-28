@@ -1,0 +1,95 @@
+<HorizontalScrollView xmlns:android="http://schemas.android.com/apk/res/android" xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent" android:layout_height="wrap_content" >
+
+    <ScrollView android:id="@+id/iphone_14___15_pro_max___2"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent" >
+
+            <RelativeLayout android:id="@+id/page_iphone_14___15_pro_max___2_ek1"
+                android:layout_marginTop="0dp"
+                android:layout_marginStart="0dp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content">
+
+                <View   android:id="@+id/_bg__iphone_14___15_pro_max___2_ek2"
+                    android:background="@drawable/bc3"
+                    android:layout_marginStart="0dp"
+                    android:layout_marginTop="0dp"
+                    android:layout_width="430dp"
+                    android:layout_height="932dp" />
+
+                <ImageView
+                    android:id="@+id/_70c2ee7117bd4cedfff975f2430b5cce_1"
+                    android:layout_width="430dp"
+                    android:layout_height="932dp"
+                    android:layout_marginStart="0dp"
+                    android:layout_marginTop="0dp"
+                    android:contentDescription="_70c2ee7117bd4cedfff975f2430b5cce_1"
+                    android:src="@drawable/bc3" />
+
+                <View   android:id="@+id/ellipse_1"
+                    android:background="@drawable/ellipse_1_shape"
+                    android:layout_marginStart="34dp"
+                    android:layout_marginTop="248dp"
+                    android:layout_width="36dp"
+                    android:layout_height="36dp" />
+
+                <View   android:id="@+id/ellipse_4"
+                    android:background="@drawable/ellipse_1_shape"
+                    android:layout_marginStart="148dp"
+                    android:layout_marginTop="350dp"
+                    android:layout_width="36dp"
+                    android:layout_height="36dp" />
+
+                <View   android:id="@+id/ellipse_5"
+                    android:background="@drawable/ellipse_1_shape"
+                    android:layout_marginStart="297dp"
+                    android:layout_marginTop="417dp"
+                    android:layout_width="36dp"
+                    android:layout_height="36dp" />
+
+                <View   android:id="@+id/ellipse_6"
+                    android:background="@drawable/ellipse_1_shape"
+                    android:layout_marginStart="181dp"
+                    android:layout_marginTop="568dp"
+                    android:layout_width="36dp"
+                    android:layout_height="36dp" />
+
+                <View
+                    android:id="@+id/level1"
+                    android:layout_width="36dp"
+                    android:layout_height="36dp"
+                    android:layout_marginStart="125dp"
+                    android:layout_marginTop="667dp"
+                    android:background="@drawable/ellipse_4_shape" />
+
+                <Button
+                    android:id="@+id/start"
+                    android:layout_width="109dp"
+                    android:layout_height="wrap_content"
+                    android:layout_marginStart="16dp"
+                    android:layout_marginTop="765dp"
+                    android:textSize="18dp"
+                    android:text="START"
+                    android:textColor="@color/black"
+                    android:textStyle="bold"
+                    android:fontFamily="fantasy"
+                    android:backgroundTint="@color/yellow"/>
+
+                <View   android:id="@+id/ellipse_2"
+                    android:background="@drawable/ellipse_1_shape"
+                    android:layout_marginStart="181dp"
+                    android:layout_marginTop="143dp"
+                    android:layout_width="36dp"
+                    android:layout_height="36dp" />
+
+                <View   android:id="@+id/ellipse_3"
+                    android:background="@drawable/ellipse_1_shape"
+                    android:alpha="0.98000001907349"
+                    android:layout_marginStart="315dp"
+                    android:layout_marginTop="30dp"
+                    android:layout_width="36dp"
+                    android:layout_height="36dp" />
+            </RelativeLayout>
+    </ScrollView>
+</HorizontalScrollView>

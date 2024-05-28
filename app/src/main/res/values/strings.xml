@@ -1,0 +1,9 @@
+<resources>
+    <string name="game_over">Game Over\nScore: %1$d\nHighest Score: %2$d</string>
+    <string name="score">Score: %1$d</string>
+    <string name="app_name">GameNew</string>
+    <string name="game_over_score">  Game Over! Your Score: %1$d, Highest Score: %2$d</string>
+    <string name="game_over_highest_score">Highest Score: %1$d</string>
+    <string name="ek_img_content">ExportKit Image</string>
+
+</resources>
